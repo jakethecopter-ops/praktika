@@ -1,0 +1,12 @@
+USE BookStoreDB;
+GO
+
+CREATE TABLE Categories (
+    CategoryID INT PRIMARY KEY IDENTITY(1,1),
+    CategoryName NVARCHAR(100) NOT NULL UNIQUE,
+    Description NVARCHAR(500) NULL
+);
+GO
+
+PRINT 'Таблица Categories создана'
+GO

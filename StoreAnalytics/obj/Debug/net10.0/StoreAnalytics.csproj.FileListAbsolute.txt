@@ -1,0 +1,14 @@
+D:\VSCodee\raboty\praktika\1\StoreAnalytics\bin\Debug\net10.0\StoreAnalytics.exe
+D:\VSCodee\raboty\praktika\1\StoreAnalytics\bin\Debug\net10.0\StoreAnalytics.deps.json
+D:\VSCodee\raboty\praktika\1\StoreAnalytics\bin\Debug\net10.0\StoreAnalytics.runtimeconfig.json
+D:\VSCodee\raboty\praktika\1\StoreAnalytics\bin\Debug\net10.0\StoreAnalytics.dll
+D:\VSCodee\raboty\praktika\1\StoreAnalytics\bin\Debug\net10.0\StoreAnalytics.pdb
+D:\VSCodee\raboty\praktika\1\StoreAnalytics\obj\Debug\net10.0\StoreAnalytics.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCodee\raboty\praktika\1\StoreAnalytics\obj\Debug\net10.0\StoreAnalytics.AssemblyInfoInputs.cache
+D:\VSCodee\raboty\praktika\1\StoreAnalytics\obj\Debug\net10.0\StoreAnalytics.AssemblyInfo.cs
+D:\VSCodee\raboty\praktika\1\StoreAnalytics\obj\Debug\net10.0\StoreAnalytics.csproj.CoreCompileInputs.cache
+D:\VSCodee\raboty\praktika\1\StoreAnalytics\obj\Debug\net10.0\StoreAnalytics.dll
+D:\VSCodee\raboty\praktika\1\StoreAnalytics\obj\Debug\net10.0\refint\StoreAnalytics.dll
+D:\VSCodee\raboty\praktika\1\StoreAnalytics\obj\Debug\net10.0\StoreAnalytics.pdb
+D:\VSCodee\raboty\praktika\1\StoreAnalytics\obj\Debug\net10.0\StoreAnalytics.genruntimeconfig.cache
+D:\VSCodee\raboty\praktika\1\StoreAnalytics\obj\Debug\net10.0\ref\StoreAnalytics.dll

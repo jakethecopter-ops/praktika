@@ -1,0 +1,15 @@
+USE BookStoreDB;
+GO
+
+CREATE TABLE Orders (
+    OrderID UNIQUEIDENTIFIER PRIMARY KEY DEFAULT NEWID(),
+    CustomerName NVARCHAR(100) NOT NULL,
+    CustomerEmail NVARCHAR(100) NOT NULL,
+    OrderDate DATETIME2 NOT NULL DEFAULT GETDATE(),
+    TotalAmount DECIMAL(10,2) NOT NULL DEFAULT 0,
+    IsCompleted BIT NOT NULL DEFAULT 0
+);
+GO
+
+PRINT 'Таблица Orders создана'
+GO

@@ -1,0 +1,11 @@
+D:\VSCodee\raboty\praktika\1\BookingSystem\BookingSystem\bin\Debug\net8.0\BookingSystem.deps.json
+D:\VSCodee\raboty\praktika\1\BookingSystem\BookingSystem\bin\Debug\net8.0\BookingSystem.dll
+D:\VSCodee\raboty\praktika\1\BookingSystem\BookingSystem\bin\Debug\net8.0\BookingSystem.pdb
+D:\VSCodee\raboty\praktika\1\BookingSystem\BookingSystem\obj\Debug\net8.0\BookingSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCodee\raboty\praktika\1\BookingSystem\BookingSystem\obj\Debug\net8.0\BookingSystem.AssemblyInfoInputs.cache
+D:\VSCodee\raboty\praktika\1\BookingSystem\BookingSystem\obj\Debug\net8.0\BookingSystem.AssemblyInfo.cs
+D:\VSCodee\raboty\praktika\1\BookingSystem\BookingSystem\obj\Debug\net8.0\BookingSystem.csproj.CoreCompileInputs.cache
+D:\VSCodee\raboty\praktika\1\BookingSystem\BookingSystem\obj\Debug\net8.0\BookingSystem.dll
+D:\VSCodee\raboty\praktika\1\BookingSystem\BookingSystem\obj\Debug\net8.0\refint\BookingSystem.dll
+D:\VSCodee\raboty\praktika\1\BookingSystem\BookingSystem\obj\Debug\net8.0\BookingSystem.pdb
+D:\VSCodee\raboty\praktika\1\BookingSystem\BookingSystem\obj\Debug\net8.0\ref\BookingSystem.dll

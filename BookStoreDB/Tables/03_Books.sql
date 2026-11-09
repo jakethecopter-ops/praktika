@@ -1,0 +1,18 @@
+USE BookStoreDB;
+GO
+
+CREATE TABLE Books (
+    BookID INT PRIMARY KEY IDENTITY(1,1),
+    ISBN UNIQUEIDENTIFIER NOT NULL DEFAULT NEWID(),
+    Title NVARCHAR(200) NOT NULL,
+    AuthorID INT NOT NULL,
+    Price DECIMAL(10,2) NOT NULL,
+    PublishedDate DATETIME2 NOT NULL,
+    IsActive BIT NOT NULL DEFAULT 1,
+    StockQuantity INT NOT NULL DEFAULT 0,
+    CONSTRAINT FK_Books_Authors FOREIGN KEY (AuthorID) REFERENCES Authors(AuthorID)
+);
+GO
+
+PRINT 'Таблица Books создана'
+GO

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "XofNwvWZYMs=",
+  "success": true,
+  "projectFilePath": "D:\\VSCodee\\raboty\\praktika\\1\\BookingSystem\\BookingSystem\\BookingSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vityu\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.33\\microsoft.netcore.app.ref.8.0.33.nupkg.sha512",
+    "C:\\Users\\vityu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.33\\microsoft.windowsdesktop.app.ref.8.0.33.nupkg.sha512",
+    "C:\\Users\\vityu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.33\\microsoft.aspnetcore.app.ref.8.0.33.nupkg.sha512"
+  ],
+  "logs": []
+}
